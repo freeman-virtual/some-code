@@ -1,4 +1,4 @@
-// SQL STATEMENTS IN C#
+// SQL STATEMENTS IN C# 
 // SqlCommand.cs
 // http://csharp-station.com/Tutorial/AdoDotNet/Lesson03
 
